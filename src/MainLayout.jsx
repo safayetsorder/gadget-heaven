@@ -5,6 +5,7 @@ import Footer from "./Footer";
 
 const MainLayout = () => {
   // const text = "Hudai amra test kortasi"
+  // new text 
   return (
     <div className="min-h-screen flex flex-col">
       <Navbar ></Navbar>
