@@ -1,0 +1,342 @@
+[
+    {
+        "product_id": "P001",
+        "product_title": "Dell XPS 13",
+        "product_image": "https://www.ubuy.com.bd/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNzEwRUdKQmRJTUwuX0FDX1NMMTUwMF8uanBn.jpg",
+        "category": "Smartphones",
+        "price": 1299,
+        "description": "Experience the ultimate smartphone with the iPhone 15 Pro Max.",
+        "specification": [
+            "6.7-inch Super Retina XDR display",
+            "A17 Bionic chip",
+            "Triple-camera system (48MP Main, 12MP Telephoto, 12MP Ultrawide)",
+            "LiDAR Scanner",
+            "Up to 2TB storage"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "P002",
+        "product_title": "Motorola Edge 40 Pro",
+        "product_image": "https://www.mobiledokan.com/media/17136296876sVrT.webp",
+        "category": "Smartphones",
+        "price": 1199,
+        "description": "Next-level power and performance with Galaxy S24 Ultra.",
+        "specification": [
+            "6.8-inch QHD+ Dynamic AMOLED display",
+            "Snapdragon 8 Gen 3",
+            "200MP quad camera system",
+            "S Pen included",
+            "1TB storage"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "P003",
+        "product_title": "Samsung Galaxy S23",
+        "product_image": "https://www.excelestore.com.bd/public/uploads/all/jgMosu41Gfx32OjVZXFgq2Ar8SHc81v7z5YwUkql.webp",
+        "category": "Laptop",
+        "price": 1499,
+        "description": "Powerful and sleek laptop for professionals.",
+        "specification": [
+            "15.6-inch 4K UHD+ display",
+            "Intel Core i9 13th Gen",
+            "NVIDIA RTX 4070 GPU",
+            "32GB RAM, 1TB SSD",
+            "Fingerprint reader"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "P004",
+        "product_title": "Apple Watch Series 8",
+        "product_image": "https://i5.walmartimages.com/seo/Apple-Watch-Series-8-GPS-45mm-PRODUCT-RED-Aluminum-Case-PRODUCT-RED-Sport-Band-M-L-Fitness-Tracker-Blood-Oxygen-ECG-Apps-Always-On-Retina-Display_44f675b1-52f2-453a-9fb2-7b0d2416e83a.90235f12c6a668150a42c0913e20c104.jpeg",
+        "category": "Laptop",
+        "price": 1199,
+        "description": "Lightweight and powerful with Apple M3 chip.",
+        "specification": [
+            "13.6-inch Liquid Retina display",
+            "Apple M3 chip",
+            "8GB RAM, 512GB SSD",
+            "Backlit Magic Keyboard",
+            "Touch ID"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": "P005",
+        "product_title": "Logitech MX Master 3",
+        "product_image": "https://www.ultratech.com.bd/image/cache/2022/06/Logitech-MX-Master-3-Advanced-Wireless-Mouse-2-500x500.jpg",
+        "category": "Smart Television",
+        "price": 1999,
+        "description": "Vibrant visuals and immersive sound with Sony OLED.",
+        "specification": [
+            "65-inch 4K UHD OLED",
+            "Google TV OS",
+            "Dolby Vision + Dolby Atmos",
+            "XR Motion Clarity",
+            "HDMI 2.1 support"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "P006",
+        "product_title": "Asus ROG Zephyrus G14",
+        "product_image": "https://images-cdn.ubuy.co.in/633fec90328a6f66f3526dd3-asus-rog.jpg",
+        "category": "Home Appliance",
+        "price": 999,
+        "description": "Keep your food fresh with LG's smart features.",
+        "specification": [
+            "Double door with InstaView",
+            "Wi-Fi enabled",
+            "DoorCooling+ tech",
+            "Linear inverter compressor",
+            "Large 600L capacity"
+        ],
+        "availability": false,
+        "rating": 4.4
+    },
+    {
+        "product_id": "P007",
+        "product_title": "OnePlus 11",
+        "product_image": "https://m.media-amazon.com/images/I/51yMS1ecBrL._AC_SL1000_.jpg",
+        "category": "Laptop",
+        "price": 899,
+        "description": "High-quality photography with Canon EOS R10.",
+        "specification": [
+            "24.2MP APS-C CMOS sensor",
+            "4K 60fps video",
+            "Dual Pixel AF II",
+            "Wi-Fi & Bluetooth",
+            "Vari-angle touchscreen"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "P008",
+        "product_title": "Sony WH-1000XM4",
+        "product_image": "https://www.sony-asia.com/image/5d02da5df552836db894cead8a68f5f3?fmt=pjpeg&wid=330&bgcolor=FFFFFF&bgc=FFFFFF",
+        "category": "Smart Watch",
+        "price": 799,
+        "description": "Rugged, powerful smartwatch for adventure seekers.",
+        "specification": [
+            "49mm titanium case",
+            "Dual-frequency GPS",
+            "Up to 36 hours battery",
+            "Action Button",
+            "Water resistant 100m"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": "P009",
+        "product_title": "Apple MacBook Air M2",
+        "product_image": "https://brotherselectronicsbd.com/image/cache/catalog/demo/product/Apple/MacBook%20Pro/MacBook%20Air%20M2%202022/MacBook%20Air%20M2%20(3)-800x800.jpg",
+        "category": "Home Appliance",
+        "price": 699,
+        "description": "Smart cleaning with laser dust detection.",
+        "specification": [
+            "Laser Slim Fluffy cleaner head",
+            "LCD screen with real-time report",
+            "HEPA filtration",
+            "60-minute run time",
+            "Anti-tangle technology"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "P010",
+        "product_title": "Fitbit Charge 5",
+        "product_image": "https://gadgetstudiobd.com/wp-content/uploads/2023/12/fitbit-charge-5-advanced-fitness-tracker-with-built-in-gps-1.jpg",
+        "category": "Headphones",
+        "price": 429,
+        "description": "Immersive sound and noise-cancelling experience.",
+        "specification": [
+            "Spatial Audio support",
+            "Active Noise Cancelling",
+            "Up to 24 hours battery",
+            "Bluetooth 5.3",
+            "Touch controls"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "P011",
+        "product_title": "Google Pixel 7 Pro",
+        "product_image": "https://www.custommacbd.com/cdn/shop/products/Pixel-7-Pro-Obsidian-custom-mac-bd.jpg?v=1669539763",
+        "category": "Keyboard",
+        "price": 149,
+        "description": "Mechanical keyboard with RGB and macro keys.",
+        "specification": [
+            "Mechanical switches (Red)",
+            "Customizable RGB lighting",
+            "USB passthrough",
+            "Anti-ghosting",
+            "Programmable macros"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "P012",
+        "product_title": "Razer Blade 15",
+        "product_image": "https://m.media-amazon.com/images/I/71kcJxMggRL._AC_SL1500_.jpg",
+        "category": "Speaker",
+        "price": 199,
+        "description": "Loud and clear sound with portable design.",
+        "specification": [
+            "Line-shape diffuser",
+            "IP67 waterproof & dustproof",
+            "24-hour battery life",
+            "Bluetooth connectivity",
+            "Fast charging"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "P013",
+        "product_title": "Samsung Galaxy Buds Pro",
+        "product_image": "https://gadgetbd.com/wp-content/uploads/2021/09/Samsung-Buds-Pro-Black.jpg",
+        "category": "Laptop",
+        "price": 1899,
+        "description": "Top-tier performance for gaming and multitasking.",
+        "specification": [
+            "16-inch WQXGA 240Hz display",
+            "Intel Core i9, RTX 4080 GPU",
+            "32GB RAM, 2TB SSD",
+            "RGB backlit keyboard",
+            "Advanced cooling system"
+        ],
+        "availability": false,
+        "rating": 4.7
+    },
+    {
+        "product_id": "P014",
+        "product_title": "Microsoft Surface Laptop 5",
+        "product_image": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MSFT-Up-level-the-way-you-work-RE50wv8?fmt=png-alpha&scl=1",
+        "category": "Tablet",
+        "price": 1199,
+        "description": "Most powerful iPad with M4 chip.",
+        "specification": [
+            "12.9-inch XDR Display",
+            "Apple M4 chip",
+            "Wi-Fi + 5G",
+            "Apple Pencil Pro support",
+            "Up to 2TB storage"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": "P015",
+        "product_title": "Oculus Quest 2",
+        "product_image": "https://images-cdn.ubuy.co.in/65e6ac9c2c174f351c1311f6-oculus-quest-2-advanced-all-in-one.jpg",
+        "category": "Smartphones",
+        "price": 149,
+        "description": "Your personal fitness tracker on the wrist.",
+        "specification": [
+            "Heart rate monitor",
+            "Built-in GPS",
+            "Google Maps + Wallet",
+            "Sleep tracking",
+            "Up to 7 days battery"
+        ],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "product_id": "P016",
+        "product_title": "HP Spectre x360",
+        "product_image": "https://img-cdn.tnwcdn.com/image?fit=1280%2C720&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FHP-Spectre-x360-14-1-of-7.jpg&signature=b273734ba382a58d403431a960fd1708",
+        "category": "Printer",
+        "price": 299,
+        "description": "Smart ink tank printer for home and office.",
+        "specification": [
+            "Print, scan, copy",
+            "Wireless printing",
+            "High capacity ink tank",
+            "HP Smart App support",
+            "Energy Star certified"
+        ],
+        "availability": true,
+        "rating": 4.2
+    },
+    {
+        "product_id": "P017",
+        "product_title": "JBL Charge 5",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/2504-8241.jpg",
+        "category": "Smartphones",
+        "price": 649,
+        "description": "Efficient cooling with low noise operation.",
+        "specification": [
+            "Dual Inverter Compressor",
+            "Smart Diagnosis",
+            "HD Filter with Anti-Virus Protection",
+            "Low Noise Operation",
+            "Energy Efficient"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "P018",
+        "product_title": "Samsung Galaxy Z Flip 4",
+        "product_image": "https://www.bdprice.com.bd/wp-content/uploads/2022/08/Samsung-Galaxy-Z-Flip4-price-in-Bangladesh.jpg",
+        "category": "Smartphones",
+        "price": 329,
+        "description": "Immersive gaming experience with curved display.",
+        "specification": [
+            "27-inch 165Hz curved display",
+            "1ms response time",
+            "Adaptive Sync",
+            "178° wide view angle",
+            "Blue light reduction"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "P019",
+        "product_title": "Beats Fit Pro",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/3976-27705.jpg",
+        "category": "Smartphones",
+        "price": 59,
+        "description": "Long-lasting power bank with fast charging.",
+        "specification": [
+            "20,000mAh battery",
+            "PowerIQ and VoltageBoost",
+            "Dual USB output",
+            "Compact design",
+            "MultiProtect safety system"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "P020",
+        "product_title": "Lenovo IdeaPad 3",
+        "product_image": "https://cdn.mos.cms.futurecdn.net/Gw3Se82bvppoJsHc4rCVsQ.jpg",
+        "category": "Smartphones",
+        "price": 229,
+        "description": "Smart display for control, video calls and more.",
+        "specification": [
+            "10-inch HD display",
+            "Built-in camera and mic",
+            "Google Assistant",
+            "Face Match tech",
+            "YouTube + Netflix support"
+        ],
+        "availability": true,
+        "rating": 4.4
+    }
+]
